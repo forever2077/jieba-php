@@ -16,7 +16,7 @@ PHP >= 7.4，并开启 FFI 扩展
 You can install the package via composer:
 
 ```bash
-composer require binaryoung/jieba-php
+composer require forever2077/jieba-php
 ```
 
 ## Usage
